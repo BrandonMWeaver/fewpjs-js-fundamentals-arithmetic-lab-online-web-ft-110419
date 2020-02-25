@@ -4,4 +4,6 @@ const multiply = num1 * num2;
 
 const random = Math.floor(Math.random() * 101);
 
-const mod = 11 % 15;
+const mod = 15 % 11;
+
+const max = Math.max(5, 10, 15, 20, 25);
