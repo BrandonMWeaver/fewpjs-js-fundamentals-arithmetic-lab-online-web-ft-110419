@@ -4,3 +4,4 @@ const multiply = num1 * num2;
 
 const random = Math.floor(Math.random() * 101);
 
+const mod = 11 % 15;
