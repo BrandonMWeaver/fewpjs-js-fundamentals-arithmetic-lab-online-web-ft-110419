@@ -6,4 +6,4 @@ const random = Math.floor(Math.random() * 101);
 
 const mod = 15 % 11;
 
-const max = Math.max(5, 10, 15, 20, 25);
+const max = Math.max(0, 5, 10, 15, 20);
